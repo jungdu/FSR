@@ -14,14 +14,15 @@
 ## 사용된 라이브러리
 
 프론트엔드
-* React
-* Redux
+* React (v16.4.2)
+* Redux 
 * Material-UI
+* axios
 
-서버사이드 ( Node.js )
+서버사이드 ( Node.js v10.3.0 )
 * express
 * mongoose
-* axios
+* body-parser
 
 웹 호스팅
 * Google Cloud Platform (f1-micro)
