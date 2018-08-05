@@ -1,0 +1,6 @@
+export const FETCH_IMGSITES = 'FETCH_IMGSITES';
+export const FETCH_SOUNDSITES = 'FETCH_SOUNDSITES';
+export const FETCH_FONTSITES = 'FETCH_FONTSITES';
+export const FETCH_FAILS = 'FETCH_FAILS';
+export const SELECT_SITE = 'SELECT_SITE';
+export const UPDATE_SITE = 'UPDATE_SITE';

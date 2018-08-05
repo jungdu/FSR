@@ -1,0 +1,25 @@
+body{
+    font-family: 'Nanum Gothic', sans-serif;
+}
+
+a {
+    text-decoration: none;
+    color:inherit;
+}
+
+h1{
+    font-weight: 400;
+    letter-spacing: 10px;
+}
+
+p{
+    line-height: 200%;
+}
+
+br{
+    height: 5px;
+}
+p a:visited, p a:link, p a:active, p a:hover{
+    color: darkblue;
+    font-weight: 600;
+}
