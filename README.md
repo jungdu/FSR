@@ -2,8 +2,8 @@
 
 라이선스 정책에 따라서 무료로 사용할 수 있는 소스들이 있는 사이트들을 소개합니다.
 
-- [메인 페이지로 이동](http://fsr.abouthorn/main)
-- [데이터 수정 페이지](http://fsr.abouthorn/tables)
+- [메인 페이지로 이동](http://fsr.abouthorn.com/main)
+- [데이터 수정 페이지](http://fsr.abouthorn.com/tables)
 
 ## 페이지
 
