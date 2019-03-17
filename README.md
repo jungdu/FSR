@@ -2,10 +2,11 @@
 
 라이선스 정책에 따라서 무료로 사용할 수 있는 소스들이 있는 사이트들을 소개합니다.
 
-- [메인 페이지로 이동](http://35.239.113.198/main)
-- [데이터 수정 페이지](http://35.239.113.198/tables)
+- [메인 페이지로 이동](http://fsr.abouthorn/main)
+- [데이터 수정 페이지](http://fsr.abouthorn/tables)
 
 ## 페이지
+
 ```
 /main : 메인 페이지
 /imgsites : 이미지 사이트들을 소개하는 페이지
@@ -17,18 +18,22 @@
 ## 사용된 라이브러리
 
 프론트엔드
-* React (v16.4.2)
-* Redux 
-* Material-UI
-* axios
+
+- React (v16.4.2)
+- Redux
+- Material-UI
+- axios
 
 서버사이드 ( Node.js v10.3.0 )
-* express
-* mongoose
-* body-parser
+
+- express
+- mongoose
+- body-parser
 
 웹 호스팅
-* Google Cloud Platform (f1-micro)
+
+- AWS (free tier)
 
 데이터 베이스 호스팅
-* mlab
+
+- mlab
